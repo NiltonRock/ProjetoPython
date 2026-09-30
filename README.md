@@ -1,4 +1,4 @@
 # ProjetoPython
 Projeto final do curso de python - reserva de salas
 
-[![GitHub Logo](/Rock_Animes/filmes.png)](/ProjetoPython/testepyscript.html).
+[![GitHub Logo](/ProjetoPython/simbolo-python-1.jpg)](/ProjetoPython/testepyscript.html).
