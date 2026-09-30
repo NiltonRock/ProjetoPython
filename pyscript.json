@@ -1,8 +1,7 @@
 {
     "files": {
-        "./src/__init__.py": "./src/__init__.py",
-        "./src/banco.py": "ProjetoPython/src/banco.py",
-        "./src/models.py": "./src/models.py",
-        "./src/menus.py": "./src/menus.py"
+        "/ProjetoPython/src/banco.py": "/ProjetoPython/src/banco.py",
+        "/ProjetoPython/src/models.py": "/ProjetoPython/src/models.py",
+        "/ProjetoPython/src/menus.py": "/ProjetoPython/src/menus.py"
     }
 }
