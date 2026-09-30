@@ -11,4 +11,4 @@ com Python, Flask, HTML e CSS.
 
 ## Executar online
 
-[![Abrir no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=USUARIO/REPOSITORIO)
+[![Abrir no GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=/Niltonrock/ProjetoPython/)
